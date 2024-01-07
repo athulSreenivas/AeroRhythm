@@ -46,6 +46,3 @@ Contributions are welcome! Whether you want to report a bug, suggest a feature, 
 This project is licensed under the [MIT License](LICENSE).
 
 Feel the rhythm, control the beats – experience AeroRhythm!
-```
-
-Replace placeholders like `your-username` and adjust the content as needed. This README provides a brief overview, installation instructions, and guidance on contributions for potential collaborators.
