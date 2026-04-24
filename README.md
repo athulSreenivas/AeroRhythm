@@ -20,7 +20,7 @@ Follow these steps to get AeroRhythm up and running on your system:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/AeroRhythm.git
+   git clone https://github.com/athulSreenivas/AeroRhythm.git
    cd AeroRhythm
    ```
 
